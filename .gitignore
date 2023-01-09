@@ -4,3 +4,4 @@
 /tests/dist
 /.idea
 *.tsbuildinfo
+/sourcemap.json
