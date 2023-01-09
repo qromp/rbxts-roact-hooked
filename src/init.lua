@@ -19,5 +19,6 @@ return {
 	useMutable = hooks.useMutable,
 	useReducer = hooks.useReducer,
 	useRef = hooks.useRef,
+	useRoactRef = hooks.useRoactRef,
 	useState = hooks.useState,
 }
